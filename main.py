@@ -21,7 +21,7 @@ import numpy as np
 # CONFIGURATION
 # ============================================================
 
-API_KEY = "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"
+API_KEY = "YOUR_API_KEY_HERE"
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
