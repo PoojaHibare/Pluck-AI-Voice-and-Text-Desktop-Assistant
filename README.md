@@ -41,13 +41,6 @@ PLUCK-AI/
 ├── main.py
 ├── requirements.txt
 ├── README.md
-│
-├── assets/
-│   ├── images/
-│   └── sounds/
-│
-└── other project files
-```
 
 > The file structure may vary depending on the version of the PLUCK project.
 
